@@ -1,2 +1,2 @@
-# Analyse-Trajectories
+# Kinovea Trajectories Evaluation
 Analyse Trajectories
